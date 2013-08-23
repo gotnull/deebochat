@@ -13,8 +13,8 @@ app.get("/", function (req, res) {
 // pushover notifications
 var Pushover = require("node-pushover");
 var push = new Pushover({
-    token: "3SEZtbWAGWTAFBQB6nXNyWFKx2pYPV",
-    user: "rLGSQZJud7w7rS3XHwNG1TYrFSMR1t"
+    token: "<token>",
+    user: "<user>"
 });
 
 // usernames which are currently connected to the chat

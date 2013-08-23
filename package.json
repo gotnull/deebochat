@@ -1,0 +1,11 @@
+{
+    "name": "DeeboChat!",
+    "version": "0.0.0",
+    "description": "DeeboChat!",
+    "dependencies": {
+        "socket.io": "latest",
+        "express": "latest",
+        "jade": "latest"
+    },
+    "author": "Fulvio Cusumano"
+}
